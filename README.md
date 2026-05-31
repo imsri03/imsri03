@@ -55,11 +55,6 @@ Implementing CI/CD pipelines, infrastructure automation, containerized deploymen
 
 ---
 
-## 🏆 Certifications
-
-- Microsoft Certified: Microsoft Fabric Analytics Engineer Associate (DP-700)
-
----
 
 ## 📫 Connect With Me
 
